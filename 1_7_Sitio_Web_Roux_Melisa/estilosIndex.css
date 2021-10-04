@@ -1,0 +1,18 @@
+.imagenesLadoIzquierdo{
+    text-align: center;
+    border-radius: 13px;
+}
+
+img.izquierda{
+    float: left;
+    margin-right: 15px;
+}
+
+div.reset {
+    clear: both;
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+.unionDeBloques{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bloqueDeTitulos{
+    max-width: 110px;
+    width: 25%;
+    background: none;
+    margin: 2px;
+    padding: 0px 50px 1px;
+}
+
+.etiquetasRegistro{
+    max-width: 5px;
+    width: 100%;
+    background: none;
+    margin: 2px;
+    padding: 5px 50px 1px;
+}
+
+
+.radioButtons{
+    max-width: 600px;
+    width: 100%;
+    background: none;
+    margin: 2px;
+    padding: 1px 160px 1px;
+}
+
+.seccionComentario{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.etiquetaComentario{
+    max-width: 4px;
+    width: 25%;
+    background: none;
+    margin: 2px;
+    padding: 10px 1px 1px;
+}
+
+.areaComentario{
+    max-width: 5px;
+    width: 100%;
+    background: none;
+    margin: 2px;
+    padding: 5px 80px 1px;
+}
+
+.cajita{
+    max-width: 300px;
+    width: 100%;
+    background: none;
+    margin: 2px;
+    padding: 1px 80px 1px;
+
+}
+
+
+.imagenesDerechaArtist{
+    text-align: center;
+}
