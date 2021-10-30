@@ -1,0 +1,236 @@
+* {
+    box-sizing: border-box;
+}
+
+.tituloxd{
+    font-size: 0.75cm;
+}
+
+.textoColorComing{
+    color: rgb(160, 8, 8);
+    font-weight:750;
+    font-size: 0.75cm;
+  }
+
+.textoGris{
+    font-size: 0.5cm;
+    font-weight:750;
+    color: rgb(129, 129, 129);
+}
+
+.textoArial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuerpo{
+    max-width: 1100px;
+    width: 100%;
+    background: none;
+    margin: auto;
+    margin-top: 0;
+    background: rgb(255, 255, 255);
+
+}
+
+.lineaPunteada {
+    border: 2px dotted #000000; 
+    border-style: none none dotted; 
+    color: #fff; 
+    background-color: #fff;
+    }
+    
+
+.imagenBorde{
+    border-radius: 10%;
+  }
+  
+.imagenCabecera{
+    background: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 45.5071px 5px;
+}
+
+
+.body{
+    background-image: url(images/background_buildings.png);
+    background-size: cover;
+    background-size: 36rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.celdaPrimeroTextoPrincipal{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagenLogo{
+    margin: 35px auto;
+}
+
+.textHeaderUno{
+    max-width: 300px;
+    width: 63%;
+    background: #000000;
+    padding: 0;
+
+}
+
+.textHeaderDos{
+    max-width: 600px;
+    width: 61%;
+    background: rgb(0, 0, 0);
+}
+
+
+
+.segundaPrteMedio li a{
+    text-decoration: none;
+    color: black;
+    padding: 1px 20px 1px;
+}
+
+.contenedorMenu{
+    list-style: none;
+    padding: 1px 0px 1px;
+    background: rgba(255, 167, 84, 0.945);
+    width: 100%;
+    max-width: 10000px;
+    margin-top: 0;
+    background-image: radial-gradient(circle at 90.35% 57.11%, #fff5a5 0, #ffe596 16.67%, #ffd283 33.33%, #ffbb6d 50%, #f3a458 66.67%, #ea904a 83.33%, #e48041 100%);
+}
+
+
+
+.segundaPrteMedio li{
+    display: inline-block;
+    text-align: center;
+}
+
+.segundaPrteMedio ul li a:hover{
+    color:aliceblue;
+    display: block;
+    text-decoration: none;
+}
+
+.parteIzquierda{
+    max-width: 550px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 1px 20px 2px;
+    border-radius: 0px;
+    margin-top: 0;
+}
+
+.Global{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.parteDerecha{
+    max-width: 550px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 1px 20px 2px;
+    margin-top: 0;
+    border-radius: 0px;
+}
+
+.texto{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagenM{
+    padding: 0px 0px 0px;
+}
+
+.imagenDerechaIphone{
+    text-align: center;
+}
+
+.ultimaParte{
+    max-width: 1100px;
+    width: 100%;
+    background: #313131;
+    margin: auto;
+    padding: 0;
+    margin-top: 0;
+}
+
+.logo{
+    margin: 50px auto;
+}
+
+.textFoot{
+    max-width: 380px;
+    width: 60%;
+    background: #313131;
+    margin: 1px auto;
+    padding: 3px 2px 1px;
+
+}
+
+.textFootDos{
+    max-width: 500px;
+    width: 100%;
+    background: #313131;
+    margin: 1px auto;
+    padding: 0px 25px 100px;
+
+}
+
+@media (max-width: 1118px){
+    .textoArial{
+        font-size: 15px;
+    }
+
+    body, header, .Global, footer{
+        width: auto;
+    }
+    .Global{
+        display: block;
+        flex-wrap: unset;
+    }
+    .cuerpo{
+        padding: 0px;
+        width: auto;
+        background-color: rgb(0, 0, 0);   
+    }
+
+    .textHeaderUno{
+        width: 1100px;
+    }
+
+    .textHeaderDos{
+        width: 1100px;
+    }
+    .imagenLogo, .logo{
+        width: auto;
+    }
+
+    .contenedorMenu{
+        width: auto;
+        max-width: 1000;
+    }
+    .parteIzquierda, .parteDerecha{
+        display: block;
+        width: auto;
+        max-width: 1100px;
+    }
+    
+
+    .header{
+        height: auto;
+        overflow: auto;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
