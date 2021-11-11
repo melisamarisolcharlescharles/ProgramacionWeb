@@ -105,6 +105,8 @@
                     <li><a href="htdocs/unidad_2/2.4 Evidencia formativa Calculador IMC con JS/index.php">Calcular IMC</a></li>
                     <li><a href="htdocs/unidad_2/2.5 Calculadora aritmética/index.php">Calcular Aritmética</a></li>
                     <li><a href="htdocs/unidad_2/2.6 Evidencia formativa Carrusel de imagenes/index.php">Carrusel de imágenes</a></li>
+                    <li><a href="htdocs/unidad_2/Evaluación Práctica Unidad 2/index.php">Evaluación Práctica Unidad 2</a></li>
+                    <li><a href="htdocs/unidad_2/Recuperación  Práctica unidad 2/index.php">Recuperación Práctica unidad 2</a></li>
                 </ul>
             <br>
             <br>
@@ -128,9 +130,10 @@
        
         <a target="_blank" href="https://www.instagram.com/melisamarisol/?hl=es-la"> <img  width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram"> </a>
      
+        <a target="_blank" href="https://drive.google.com/drive/folders/13gke22xRcj5BFaMC6B_-rlG13r4y0VoP?usp=sharing"> <img  width="5%" src="https://migrants-refugees.va/es/wp-content/uploads/sites/4/2017/04/Google-Drive-icon.png" alt="instagram"> </a>
     </div>
     <br>
-    
+
    
     </div>
     <br>
