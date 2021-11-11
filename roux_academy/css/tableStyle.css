@@ -1,0 +1,25 @@
+thead.cabecera tr td {
+    font-family: monospace;
+    font-size: 30px;
+    border-radius: 12;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    background-image: linear-gradient(170deg, #008af8 0, #2886f6 16.67%, #5082f4 33.33%, #697ef0 50%, #7d7aeb 66.67%, #8f75e6 83.33%, #9e70e0 100%);
+}
+
+
+tbody.cuerpo tr td {
+    color: #000000;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+td {
+    border-style: solid;
+    border-color:#000000;
+    border-width: 3px;
+    border-radius: 2px;
+}
