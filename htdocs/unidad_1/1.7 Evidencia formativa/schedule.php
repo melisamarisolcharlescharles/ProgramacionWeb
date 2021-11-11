@@ -41,11 +41,11 @@
     <article class="contenedorMenu">
         <section class="segundaPrteMedio">
             <ul class = "textoArial">
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="artists.html">ARTISTS</a></li>
-                <li><a href="schedule.html">SCHEDULE</a></li>
-                <li><a href="venue.html">VENUE/TRAVEL</a></li>
-                <li><a href="register.html">REGISTER</a></li>
+                <li><a href="index.index">HOME</a></li>
+                <li><a href="artists.index">ARTISTS</a></li>
+                <li><a href="schedule.index">SCHEDULE</a></li>
+                <li><a href="venue.index">VENUE/TRAVEL</a></li>
+                <li><a href="register.index">REGISTER</a></li>
             </ul>
         </section>
     </article>
