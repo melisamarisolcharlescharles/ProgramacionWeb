@@ -1,0 +1,13 @@
+  img.imagenLadoDerecho{
+  float: right;
+  margin-right: 13px;
+  border-radius: 8%;
+}
+
+
+@media (max-width: 1118px){
+  img.imagenLadoDerecho{
+    width: auto;
+    
+  }
+}
