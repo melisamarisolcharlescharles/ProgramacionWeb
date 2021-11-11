@@ -1,8 +1,8 @@
 <?php
     $bd = 'evidencia';
     $servidor = 'localhost';
-    $usuario='root';
-    $contrasena='';
+    $usuario='admin';
+    $contrasena='melisacharles';
     
     #Creamos una conexión a la base de datos
     $conexion=mysqli_connect($servidor,$usuario,$contrasena,$bd);
