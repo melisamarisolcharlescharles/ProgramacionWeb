@@ -10,7 +10,7 @@
 
 </head>
 <body>
-    <form action="formulario.html">
+    <form action="formulario.index">
     <fieldset class ="orangeF"></fieldset>
     <fieldset>
         <h1>Survey for Product X</h1>
@@ -22,7 +22,7 @@
 
 
     <br>
-    <form action="index.html" method="POST">
+    <form action="index.index" method="POST">
         <fieldset>
             <label for="nombre">Name: * </label><br><br>
             <input class="inputTxt" type="text" name="nombre" id="nombre" required minlength="7">
